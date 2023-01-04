@@ -5,6 +5,7 @@
 ### Arrays:
 
 - [x] Build Array from Permutation
+- [x] Concatenation of Array
 
 ### Strings:
 
