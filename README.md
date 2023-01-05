@@ -6,6 +6,7 @@
 
 - [x] Build Array from Permutation
 - [x] Concatenation of Array
+- [x] Two Sum
 
 ### Strings:
 
