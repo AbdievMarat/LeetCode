@@ -2,6 +2,16 @@
 
 
 ## Solved Challenges
+
+### Database:
+
+- [x] Combine Two Tables
+- [x] Employees Earning More Than Their Managers
+- [x] Duplicate Emails
+- [x] Customers Who Never Order
+- [x] Delete Duplicate Emails
+- [x] Rising Temperature
+
 ### Arrays:
 
 - [x] Build Array from Permutation
